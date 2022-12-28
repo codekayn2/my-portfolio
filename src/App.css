@@ -17,7 +17,7 @@
 
 /************ Default Css ************/
 * {
-  max-height: 700px;
+
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -542,6 +542,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;
+  min-height: 600px;
   background-image: url('./assets/img/footer-bg.png');
   background-position: center center;
   background-size: cover;
